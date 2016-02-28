@@ -1,0 +1,27 @@
+return {
+	[110]	= {
+		["password"]	= "ang1FEuzeLxEUtm+KCbLIA==",
+		["nick"]	= "查水表的",
+		["admin"]	= true,
+	},
+	[10000]	= {
+		["password"]	= "ang1FEuzeLxEUtm+KCbLIA==",
+		["nick"]	= "System",
+		["admin"]	= true,
+	},
+	[10001]	= {
+		["password"]	= "ang1FEuzeLxEUtm+KCbLIA==",
+		["nick"]	= "中国电信",
+		["admin"]	= true,
+	},
+	[10086]	= {
+		["password"]	= "ang1FEuzeLxEUtm+KCbLIA==",
+		["nick"]	= "中国移动",
+		["admin"]	= true,
+	},
+	[100001]	= {
+		["password"]	= "ang1FEuzeLxEUtm+KCbLIA==",
+		["nick"]	= "约修亚_RK",
+		["admin"]	= true,
+	},
+}
