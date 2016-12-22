@@ -1,5 +1,5 @@
 # STalk
-An IM Program on Windows. Lua, CUI.
+A chatting program based on console. Edit
 
 ## Usage
 Upload and run `Server.lua` after change the config.
