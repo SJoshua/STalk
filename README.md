@@ -1,5 +1,5 @@
 # STalk
-A chatting program based on console. Edit
+A chatting program based on console. 
 
 ## Usage
 Upload and run `Server.lua` after change the config.
